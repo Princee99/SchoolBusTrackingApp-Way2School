@@ -9,6 +9,6 @@ features child profiles for easy management and notification/alert mechanisms to
 inform parents of important events, such as when the bus approaches their house or
 when the bus speed exceeds the set limit. Developed with modern web technologies,
 Way2School ensures user data security and privacy while providing an intuitive user
-experience 
+experience.
 
 Blog: https://medium.com/@patelprincee9127/way2school-enhancing-school-bus-safety-a802ab2743ab
